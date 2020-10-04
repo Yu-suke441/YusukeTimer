@@ -15,6 +15,7 @@
 		CB3E20DB25288A7800A77EEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB3E20D925288A7800A77EEA /* LaunchScreen.storyboard */; };
 		CB3E20E625288A7800A77EEA /* YusukeTimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3E20E525288A7800A77EEA /* YusukeTimerTests.swift */; };
 		CB3E20F125288A7800A77EEA /* YusukeTimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3E20F025288A7800A77EEA /* YusukeTimerUITests.swift */; };
+		CB3E210225288E7200A77EEA /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3E210125288E7200A77EEA /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CB3E20EC25288A7800A77EEA /* YusukeTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YusukeTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB3E20F025288A7800A77EEA /* YusukeTimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YusukeTimerUITests.swift; sourceTree = "<group>"; };
 		CB3E20F225288A7800A77EEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB3E210125288E7200A77EEA /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				CB3E20CE25288A7700A77EEA /* AppDelegate.swift */,
 				CB3E20D025288A7700A77EEA /* SceneDelegate.swift */,
 				CB3E20D225288A7700A77EEA /* ViewController.swift */,
+				CB3E210125288E7200A77EEA /* SettingViewController.swift */,
 				CB3E20D425288A7700A77EEA /* Main.storyboard */,
 				CB3E20D725288A7800A77EEA /* Assets.xcassets */,
 				CB3E20D925288A7800A77EEA /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				CB3E20D325288A7700A77EEA /* ViewController.swift in Sources */,
 				CB3E20CF25288A7700A77EEA /* AppDelegate.swift in Sources */,
 				CB3E20D125288A7700A77EEA /* SceneDelegate.swift in Sources */,
+				CB3E210225288E7200A77EEA /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
